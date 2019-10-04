@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "computer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nastia1998/WFA_P3_HW1.git"
+  },
+  "author": "Anastasiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nastia1998/WFA_P3_HW1/issues"
+  },
+  "homepage": "https://github.com/nastia1998/WFA_P3_HW1#readme"
+}

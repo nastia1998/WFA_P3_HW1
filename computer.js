@@ -40,3 +40,9 @@ class Ultrabook extends Computer {
         return [super.showInfo(), this.hardDiskSize];
     }
 }
+
+let computer = new Computer("HP", "AMD");
+let ultrabook = new Ultrabook("Lenovo", "Intel", 256);
+
+console.log(computer.showInfo());
+console.log(ultrabook.showInfo());
